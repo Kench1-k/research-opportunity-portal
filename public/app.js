@@ -1,4 +1,3 @@
-// public/app.js
 const API_URL = '/api/opportunities';
 
 document.addEventListener('DOMContentLoaded', () => {
